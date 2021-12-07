@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Open Sans;
+    font-family: "Open Sans";
 }
   
 .header {
@@ -43,7 +43,7 @@
     color: #828282;
     text-decoration-line: none;
 }
-.header li:not( :last-child) {
+.header li:not(:last-child) {
     margin-right: 40px;
 }
 
@@ -126,7 +126,7 @@
     list-style: none;
 }
 
-.skills li:not( :last-child) {
+.skills li:not(:last-child) {
     margin-right: 90px;
 }
 
